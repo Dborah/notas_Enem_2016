@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Dborah/notas_Enem_2016/blob/master/img/logo.png" alt="Logo" />
+</p>
+
 # Descubra as melhores notas de matemática do ENEM 2016
 
 Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. 
@@ -32,3 +36,9 @@ Faça o upload do arquivo answer.csv usando o botão "Submeter resposta".
 ## Observações
 
 O objetivo do desafio é avaliar a sua capacidade de resolver problemas, então ele pode ser resolvido em qualquer linguagem de programação ou ferramenta que você tenha facilidade. Mas recomendamos o uso de linguagens com maior ferramental de matemática e estatística como Python, R, Scala ou Julia.
+
+## Resultado
+
+<p align="center">
+  <img src="https://github.com/Dborah/notas_Enem_2016/blob/master/img/resultado.png" alt="Logo" />
+</p>
